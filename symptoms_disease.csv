@@ -1,0 +1,12 @@
+fever,cough,headache,fatigue,nausea,chest_pain,shortness_of_breath,confusion,swelling_legs,vision_problem,disease
+1,1,1,0,0,0,0,0,0,0,Flu
+1,0,1,1,1,0,0,0,0,0,Malaria
+0,1,0,0,0,0,0,0,0,0,Cold
+1,0,1,0,0,0,0,0,0,0,Typhoid
+0,0,1,1,1,1,1,0,0,0,Heart Attack
+0,0,0,1,1,0,1,0,1,0,Kidney Failure
+0,0,1,1,0,0,1,1,0,1,Stroke
+1,1,1,1,1,0,0,0,0,0,Dengue
+0,1,1,1,0,0,0,0,0,0,Bronchitis
+1,1,0,1,1,0,0,0,0,0,Food Poisoning
+0,0,0,0,0,0,0,0,0,0,Healthy 
